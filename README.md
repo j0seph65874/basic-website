@@ -1,0 +1,2 @@
+# basic-website
+For fun
